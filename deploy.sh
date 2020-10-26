@@ -1,5 +1,6 @@
 #! /bin/bash
 
+
 cd $(dirname $0)
 
 IBMCLOUD=$(pwd)/Bluemix_CLI/bin/ibmcloud
